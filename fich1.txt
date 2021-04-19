@@ -1,3 +1,5 @@
 Fich1
 linea 1
 linea 2
+remoto> parrafo 1
+remoto> parrafo 2
