@@ -1,1 +1,2 @@
 fich1
+fichero 1 linea 1
