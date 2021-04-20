@@ -1,3 +1,4 @@
 fich1
 fichero 1 linea 1
+hola que tal estas 
 rama1>linea 1.1
