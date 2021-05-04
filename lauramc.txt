@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 creo el archivo en master
+=======
+creacion del archivo en la rama
+linea 2
+>>>>>>> rama
